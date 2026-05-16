@@ -30,7 +30,7 @@ Missing value removal Label Encoding for categorical data Feature selection Trai
 
 The project automatically generates:
 
-Exam Score Distribution Actual vs Predicted Scores Residual Distribution Feature Importance Chart Model Comparison Graph Correlation Heatmap Attendance vs Exam Score Study Hours vs Exam Score Installation Clone the Repository git clone https://github.com/HarshithaReddy1-4/Student-Performance-Predictor.git Navigate to Project Folder cd Student-Performance-Predictor Install Dependencies pip install -r requirements.txt Requirements
+Exam Score Distribution Actual vs Predicted Scores Residual Distribution Feature Importance Chart Model Comparison Graph Correlation Heatmap Attendance vs Exam Score Study Hours vs Exam Score Installation Clone the Repository git clone https://github.com/Manishayadav06/Student-performance-predictor Navigate to Project Folder cd Student-Performance-Predictor Install Dependencies pip install -r requirements.txt Requirements
 
 Create a requirements.txt file with:
 
