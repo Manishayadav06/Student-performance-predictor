@@ -6,7 +6,7 @@ Overview
 
 The Student Performance Predictor is a Machine Learning project developed using Python and Scikit-learn. The system analyzes multiple academic and lifestyle factors such as attendance, study hours, parental involvement, motivation level, and previous scores to predict a student's exam performance.
 
-The project compares multiple regression algorithms and evaluates their performance using standard machine learning metrics.
+The project compares multiplee regression algorithms and evaluates their performance using standard machine learning metrics.
 
 Features Predicts student exam scores using ML models Compares multiple regression algorithms Performs data preprocessing and encoding Generates professional visualizations and reports Displays feature importance analysis Evaluates model accuracy using multiple metrics Supports single-student score prediction Technologies Used Programming Language Python Libraries & Frameworks Pandas NumPy Scikit-learn Matplotlib Seaborn Machine Learning Models Used Linear Regression Ridge Regression Random Forest Regressor Gradient Boosting Regressor Evaluation Metrics
 
